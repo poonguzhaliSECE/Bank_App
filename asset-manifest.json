@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/poonguzhaliSECE.github.io/Bank_App/static/css/main.31185221.css",
-    "main.js": "/poonguzhaliSECE.github.io/Bank_App/static/js/main.b969c5ae.js",
-    "index.html": "/poonguzhaliSECE.github.io/Bank_App/index.html",
-    "main.31185221.css.map": "/poonguzhaliSECE.github.io/Bank_App/static/css/main.31185221.css.map",
-    "main.b969c5ae.js.map": "/poonguzhaliSECE.github.io/Bank_App/static/js/main.b969c5ae.js.map"
+    "main.css": "/Bank_App/static/css/main.31185221.css",
+    "main.js": "/Bank_App/static/js/main.b969c5ae.js",
+    "index.html": "/Bank_App/index.html",
+    "main.31185221.css.map": "/Bank_App/static/css/main.31185221.css.map",
+    "main.b969c5ae.js.map": "/Bank_App/static/js/main.b969c5ae.js.map"
   },
   "entrypoints": [
     "static/css/main.31185221.css",
