@@ -2,7 +2,7 @@
   "name": "to_do",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:poonguzhaliSECE.github.io/Bank_App",
+  "homepage": "https://poonguzhaliSECE.github.io/Bank_App",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
